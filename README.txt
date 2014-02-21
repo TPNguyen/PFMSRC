@@ -10,3 +10,4 @@
 1:colon  2:Gliomas   3:DLBCL 4:ALLAML
 2、多分类问题
 5:MLL  6:ALL  7:SRBCT 8:ALL2
+注意：代码依赖于CVX包
